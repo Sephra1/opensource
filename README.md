@@ -10,7 +10,7 @@ We understand that entering the world of open source can be intimidating and may
 
 As part of the mission you'll learn how to fork a project, set up a local environment, contribute changes and create a pull request, all while contributing to an interactive art project called [Open Pixel Art](https://open-pixel-art.com).
 
-[Start your quest now by downloading TwilioQuest](https://www.twilio.com/quest).
+[Start your quest now by downloading TwilioQuest](https://twil.io/hacktoberfest-quest).
 
 ## Twilio Labs
 
